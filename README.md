@@ -1,2 +1,2 @@
 # user-demo
-this is a user demo repository
+this is a user demo repository(shruti)
